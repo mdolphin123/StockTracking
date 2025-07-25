@@ -1,0 +1,1 @@
+Webapp built using FastAPI, PostgreSQL, Kafka, and React.js. Provides a simple UI that allows users to check freshly updated stock by the minute for various different companies. Different functions that allow users to quickly receive and analyze live market updates. 
