@@ -1,0 +1,15 @@
+fastapi
+redis
+types-redis
+uvicorn
+datetime
+httpx
+asyncpg==v0.30.0
+apscheduler==4.0.0a3
+fastapi_scheduler
+pydantic_settings
+psycopg2-binary
+pytz
+kafka-python
+aiokafka
+matplotlib

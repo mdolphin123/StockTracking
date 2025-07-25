@@ -1,0 +1,103 @@
+.get_price {
+  background-color: white;
+  border-style: solid;
+  border-color: black;
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 800px;
+  height: 518px;
+  border-width: 3px;
+
+}
+
+.response_box {
+  background-color: white;
+  border-style: solid;
+  border-color: black;
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 800px;
+  height: 200px;
+  border-width: 3px;
+
+}
+
+
+.average_box {
+  background-color: white;
+  border-style: solid;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 748px;
+  height: 337px;
+  border-right-color: white;
+  border-top-color: black;
+  border-width: 3px;
+
+}
+
+
+.graph_box {
+  background-color: white;
+  border-style: solid;
+  border-color: black;
+  border-left-color: white;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 838px;
+  height: 377px;
+  border-right-color: white;
+  border-width: 3px;
+
+}
+
+
+
+.get_poll {
+  background-color: white;
+  border-style: solid;
+  border-color: black;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 787px;
+  height: 560px;
+  border-width: 3px;
+
+}
+
+.aapl_button {
+  background-image: linear-gradient(to right, white , silver);
+}
+
+
+.NVDA_button {
+  background-image: linear-gradient(to right, yellowgreen , white);
+}
+
+.AMZN_button {
+  background-image: linear-gradient(to right, black 55%, gold);
+}
+
+
+.IBM_button {
+  background-color: royalblue;
+
+}
+
+.MSFT_button {
+  background-color: deepskyblue;
+  background-size: cover;
+  background-position: center;
+
+}
+
+
+
+
+
+
